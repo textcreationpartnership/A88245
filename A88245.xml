@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of Lieut. Col. John Lilburn: concerning the lawes, liberties, priviledges, birthrights, freedom, and inheritances, of the frec-born [sic] people of England; in relation to the sentence denounced against him for banishment. Together with his resolution, to adhere and stand firm to the fundamental lawes of this nation; and inviolably to endeavour the preservation thereof; to the end, that justice and right may not be sold, denied, or deferred to any man. / Published by a well-wisher to that faithful-Lover of his Countrey, and constant sufferer for the liberties thereof, Lieut. Colonel John Lilburn.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88245</idno>
+            <idno type="STC">Wing L2173</idno>
+            <idno type="STC">Thomason E652_5</idno>
+            <idno type="STC">ESTC R205874</idno>
+            <idno type="EEBO-CITATION">99865115</idno>
+            <idno type="PROQUEST">99865115</idno>
+            <idno type="VID">117352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117352)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E652[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of Lieut. Col. John Lilburn: concerning the lawes, liberties, priviledges, birthrights, freedom, and inheritances, of the frec-born [sic] people of England; in relation to the sentence denounced against him for banishment. Together with his resolution, to adhere and stand firm to the fundamental lawes of this nation; and inviolably to endeavour the preservation thereof; to the end, that justice and right may not be sold, denied, or deferred to any man. / Published by a well-wisher to that faithful-Lover of his Countrey, and constant sufferer for the liberties thereof, Lieut. Colonel John Lilburn.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Horton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 28.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Civil rights --  England --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117352:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 90 -->
+            <p>A REMONSTRANCE Of Lieut. Col. JOHN LILBURN: Concerning The Lawes, Liberties, Priviledges, Birth-Rights, Freedom, and Inheritances, of the free-born People of <hi>England;</hi> in relation to the Sentence denounced againſt him for Baniſhment.</p>
+            <p>Together with his Reſolution, to adhere and ſtand firm to the fundamental Lawes of this Nation; and inviolably to endeavour the preſervation thereof; to the end, that Juſtice and Right may not be ſold, denied, or deferred to any man.</p>
+            <p>Publiſhed by a Well-wiſher to that faithful-Lover of his Countrey, and conſtant Sufferer for the Liberties thereof, Lieut. Colonel JOHN LILBURN.</p>
+            <p>Imprinted at <hi>London,</hi> for G. HORTON, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117352:2"/>
+            <!-- PDF PAGE 91 -->
+            <pb n="3" facs="tcp:117352:2"/>
+            <!-- PDF PAGE 91 -->
+            <head>THE REMONSTRANCE OF Lieutenant Colonel John Lilburn, to the Freeborn people of England; and a Narrative and Abſtract of his late pro<g ref="char:EOLhyphen"/>ceedings, tryal, and ſufferings.</head>
+            <p>IT is the ſaying of the God of Truth, That he that walketh righteouſly, and ſpeaketh uprightly; he that deſpiſeth the gain of oppreſſions, that ſhake<g ref="char:EOLhyphen"/>eth his hands from holding of bribes, that ſtoppeth his ears from hearing of bloud, and ſhutteth his eyes from ſeeing of evil; He ſhall dwell on high; &amp;c. But on the contrary he ſaith; VVoe unto them that de<g ref="char:EOLhyphen"/>cree unrighteous Decrees; and that write grievouſ<g ref="char:EOLhyphen"/>neſſe which they have preſcribed; to turn aſide the needy from judgment; and to take away the
+<pb n="4" facs="tcp:117352:3"/>
+               <!-- PDF PAGE 92 -->right from the poor of my people; that widowes may be their prey; and that they may rob the Fa<g ref="char:EOLhyphen"/>therleſſe, Iſa. 32.15, 16. Chap. 10.1, 2.</p>
+            <p>As for my own part I am a free-man; yea, a free Denizen of England; and I have been in the field with my ſword in my hand, to adventure my life and my bloud (againſt Tyrants) for the preſerva<g ref="char:EOLhyphen"/>tion of my juſt-freedom; and I do not know that ever I did an act in all my life, that disfranchiſed me of my freedom; and by vertue of my being a free<g ref="char:EOLhyphen"/>man (I conceive) I have as true a right to all the pri<g ref="char:EOLhyphen"/>viledges that do belong to a freeman as the greateſt man in England whatſoever he be; and the ground and foundation of my freedome I build upon the grand Charter of England, which is publiſhed and expreſſed in the 9 of HEN. 3. Chap. 29. which I humbly crave leave to illuſtrate as followeth, viz. That no freeman ſhall be taken or impriſoned; or be diſeiſed of his free-hold or liberties; or free Cu<g ref="char:EOLhyphen"/>ſtoms; or be out-lawed or exiled; or any wiſe de<g ref="char:EOLhyphen"/>ſtroyed: Nor we will not paſſe upon him, nor con<g ref="char:EOLhyphen"/>demn him; but by lawful Judgment of his Peers; or by the Law of the Land; we will ſell to no man; we will not deny; or defer to any man either Ju<g ref="char:EOLhyphen"/>ſtice or Right. And the priviledges contained here<g ref="char:EOLhyphen"/>in are my birth-right and inheritance; which privi<g ref="char:EOLhyphen"/>ledges
+<pb n="5" facs="tcp:117352:3"/>
+               <!-- PDF PAGE 92 -->have been ratified and confirmed to the free people of England by the Parliament aſſembled at Weſtmidſter; and many Declarations put out a<g ref="char:EOLhyphen"/>gainſt the late King for violating of them.</p>
+            <p>And truly, I cannot chuſe but remind you, That the Law of England is the birth-right and inheri<g ref="char:EOLhyphen"/>tance of the people of England; yea of the meaneſt as well as of the richeſt: And although the Law of England be not ſo good in every particular, e<g ref="char:EOLhyphen"/>ſpecially in the adminiſtrative part of it, as I could wiſh it were; yet till I can ſee a better, I (for my part) will make much of that which we have, as the principal Earthly preſerver and ſafeguard of my life, liberty and property for it, viz. Magna Charta Chap. 29. ſaith, No free-man ſhall be taken or im<g ref="char:EOLhyphen"/>priſoned, or be diſſeifed of his freehold or ftee Cu<g ref="char:EOLhyphen"/>ſtomes, or be outlawed or exiled, or any otherwiſe deſtroyed; nor paſt upon, nor condemned, but by lawful Judgment of his Peers; or by the Law of the Land; and that Juſtice and Right ſhall not be ſold denied, or deferred to any man. See Sir Edw. Cook's excellent Expoſition upon this in his 2. par. Inſtit. fol. 46, 47. &amp;c. Printed by the late forcibly diſſolved Parliament for good Law. And poſitively declared, To preſerve unto the people inviolably their fun<g ref="char:EOLhyphen"/>damental Laws and Liberties, in refere<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce to their Lives, Eſtates, and all things appertaining thereunto.</p>
+            <div type="remonstrance">
+               <pb n="6" facs="tcp:117352:4"/>
+               <!-- PDF PAGE 93 -->
+               <head>The Remonſtrance.</head>
+               <p>IT was the lot and portion of our onely Lord and Maſter Jeſus Chriſt, to be perſecuted, reviled, re<g ref="char:EOLhyphen"/>proached, and counted a Troubler of the World, and one not ſit to breath therein: And this even by his own Countrey-men and friends; And if we his ſer<g ref="char:EOLhyphen"/>vants meet with the ſame meaſure, he hath com<g ref="char:EOLhyphen"/>manded Us not to be diſmayed or troubled, and the reaſon is, becauſe the ſervant is not above the maſter: And withall, that we might go on cheerfully in bear<g ref="char:EOLhyphen"/>ing the yoak of our maſter, he hath ingaged himſelf to bear part of it with us, and takes all that is done to us for adhering to him, as done unto himſelf, Act. 9.4. And therefore, ſaith the ſpirit of God, in all their afflict<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons, he was afflicted, and the Angel of his pre<g ref="char:EOLhyphen"/>ſence ſaved him, Eſay 63.9. Paul, Peter, and John, ſound theſe ſayings of their Maſter true, and had their portions in afflictions in an extraordinaay man<g ref="char:EOLhyphen"/>ner, but yet taſted largely of the faithfulneſſe of their Maſters promiſe, which was to be with them, and in them; which made Paul glory in his tribulations, and to ſay, That as his afflictions did abound, ſo much more his conſolations; and Paul's portion in theſe expreſſions and enjoyments, I my ſelf have been made partaker of, in my great and preſſing tribula<g ref="char:EOLhyphen"/>tions, which I under-went in the Biſhops dayes, and have had a large portion of ſorrowes all along both
+<pb n="7" facs="tcp:117352:4"/>
+                  <!-- PDF PAGE 93 -->before and ſince, throughout my pilgrimage in this preſent Vail of teares. And having had my ſpirit mightily refreſhed and carryed above the world, and the laſh of my bitter adverſaries, by calling to mind my by-paſt experience and refreſhings, that I have injoyed from that Fountain of fulneſſe, that hath for many years together been my ſenſible injoyed por<g ref="char:EOLhyphen"/>tion: And amongſt all the Writings and Declarati<g ref="char:EOLhyphen"/>ons of Gods Love and Kindneſſe manifeſted to me in my ſorrowes, this hath moſt affected, and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ken my ſpirit with greateſt content, That it is the work of the Saints, to incounter with difficulties in the Cauſe and Quarrel of their Lord and Maſter, and not to be afraid of bonds nor impriſonments. A good Conſcience had rather run the hazard of cru<g ref="char:EOLhyphen"/>elty, then to abate an hairs breadth of conteſtation a<g ref="char:EOLhyphen"/>gainſt illegality. This was the ſaying of Mr. Over<g ref="char:EOLhyphen"/>ton, in his late Caſe, depending in the Honſe of Peers; for, ſaith he, <q>As their Lordſhips in their ar<g ref="char:EOLhyphen"/>bytrary capacity found Warrants, ſo ſhould they find Legs to obey them; for I was reſolved mine ſhould not be inſlaved to that their Uſurpation to do their Arbytrary Drudgery; I would rather loſe my life, then in that kind to do them that vaſ<g ref="char:EOLhyphen"/>ſalage: My Legs were born as free as the reſt of my Body, and therefore I ſcorn that Legs, or arms, or hands, ſhould do them any ſervice; for as I am
+<pb n="8" facs="tcp:117352:5"/>
+                     <!-- PDF PAGE 94 -->a free-man by Birth, ſo am I reſolved to live and die, both in heart, word and deed, in ſubſtance and in ſhew.</q>
+               </p>
+               <p>Many thouſand Citizens are petitioning the Parl. for the recalling of the heavy ſen<g ref="char:EOLhyphen"/>tence upon him; by reaſon that if in relati<g ref="char:EOLhyphen"/>on to his perſon, his affection to the Parlia<g ref="char:EOLhyphen"/>ment, and zeal to publick freedom, renders all forrein Nations ſo unſafe to him, as that (in effect) he is baniſhed into a Wilderneſs, and expoſed naked to the fury of Bears and Lyons.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
